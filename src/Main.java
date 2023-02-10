@@ -27,6 +27,7 @@ public class Main {
         System.out.println();
         task5();
 
+        in.close();
     }
 
     public static void task1WithoutLambda() {
